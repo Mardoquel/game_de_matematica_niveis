@@ -1,4 +1,4 @@
-# jogo_de_matematica_niveis
+# game_de_matematica_niveis
 
 Projeto feito para fixação de conteudo do curso realizado.
 
